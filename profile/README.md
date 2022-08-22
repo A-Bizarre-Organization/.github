@@ -1,5 +1,5 @@
 ## Hello boys.
 
-🙋‍♀️ Welcome to A Bizarre Organization.
-🍿 Fun fact - Malakai loves rhythm games!
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ Welcome to A Bizarre Organization.  
+🍿 Fun fact - Malakai loves rhythm games!  
+🧙 This is the organization housing the entire source code for A Bizarre Day; but that's private, silly! **So leave.**
