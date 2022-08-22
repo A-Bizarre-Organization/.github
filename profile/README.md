@@ -1,4 +1,4 @@
-## Hello boys.
+## Hello.
 
 🙋‍♀️ Welcome to A Bizarre Organization.  
 🍿 Fun fact - Malakai loves rhythm games!  
